@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/jekyll-resume-gh-pages/_data"
+		},
+		{
+			"path": "../../../Downloads/jekyll-resume-gh-pages/_includes"
+		},
+		{
+			"path": "../../../Downloads/jekyll-resume-gh-pages/_layouts"
+		},
+		{
+			"path": "../../../Downloads/jekyll-resume-gh-pages/_sass"
+		},
+		{
+			"path": "../../../Downloads/jekyll-resume-gh-pages/css"
+		},
+		{
+			"path": "../../../Downloads/jekyll-resume-gh-pages/img"
+		}
+	],
+	"settings": {}
+}
