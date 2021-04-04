@@ -53,6 +53,11 @@
     width: 350px;
     height: 600px;
   }
+
+  #inside-pic-2 {
+    width: 420px;
+    height: 700px;
+  }
   
   #message {
     color: black;
